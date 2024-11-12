@@ -1,3 +1,16 @@
+**Name** : Jandrajupalli Hanok
+
+**Company**: CODTECH IT SOLUTION
+
+**ID**: CT12DS2474
+
+**Domain**: WEB DEVELOPMENT
+
+**Duration**: SEPTEMBER 20th,2024 to NOVEMBER 20th,2024
+
+**Mentor**: Neela Santhosh Kumar 
+
+##
 
 ### Project Name: BlogSpot
 
