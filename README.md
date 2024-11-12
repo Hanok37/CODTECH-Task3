@@ -41,3 +41,6 @@
 
 ### Sample Pictures:
 
+![Screenshot 2024-11-12 193804](https://github.com/user-attachments/assets/02ffda93-f76c-46dc-a03d-5ef2bece54e9)
+
+![Screenshot 2024-11-12 193847](https://github.com/user-attachments/assets/dbdea19f-f92e-4c70-a360-9455e2994625)
